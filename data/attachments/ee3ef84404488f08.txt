@@ -1,0 +1,1 @@
+ℹ️ ▶️ Starting test: SU02_testSignUpWithRegisteredEmail
