@@ -1,0 +1,42 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebCatalogTest" parallel="tests" thread-count="3">
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+        <listener class-name="listeners.TestListener"/>
+        <listener class-name="listeners.AllureReportListener"/>
+        <listener class-name="listeners.RetryListener"/>
+    </listeners>
+
+    <test name="Chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testcases.SignInTest"/>
+            <class name="testcases.SignUpTest"/>
+            <class name="testcases.AccountSettingsTest"/>
+            <class name="testcases.SubmitNewAppTest"/>
+            <class name="testcases.E2ETest"/>
+        </classes>
+    </test>
+
+    <test name="FireFox">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="testcases.SignInTest"/>
+            <class name="testcases.SignUpTest"/>
+            <class name="testcases.AccountSettingsTest"/>
+            <class name="testcases.SubmitNewAppTest"/>
+            <class name="testcases.E2ETest"/>
+        </classes>
+    </test>
+
+    <test name="Edge">
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="testcases.SignInTest"/>
+            <class name="testcases.SignUpTest"/>
+            <class name="testcases.AccountSettingsTest"/>
+            <class name="testcases.SubmitNewAppTest"/>
+            <class name="testcases.E2ETest"/>
+        </classes>
+    </test>
+</suite>
