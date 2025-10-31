@@ -1,0 +1,3 @@
+❌ ⚠️ Soft assertions failed: The following asserts failed:
+	Items can't be displayed when no app submitted expected [true] but found [false],
+	Items can't be displayed when no app submitted expected [true] but found [false]
