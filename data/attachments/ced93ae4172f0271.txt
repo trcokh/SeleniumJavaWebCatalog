@@ -1,1 +1,0 @@
-ℹ️ Soft Assert True: Items can't be displayed when no app submitted

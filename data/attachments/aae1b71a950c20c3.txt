@@ -1,1 +1,0 @@
-ℹ️ Actual: A confirmation message has been sent to the new email address. Please follow the instructions in the message to continue.
