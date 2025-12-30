@@ -1,4 +1,0 @@
-❌ Test Failed: Expected condition failed: waiting for pages.BasePage$$Lambda/0x00007f9964481500@1d26513b (tried for 60 second(s) with 200 milliseconds interval)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1044-azure', java.version: '21.0.9'
-Driver info: driver.version: unknown
