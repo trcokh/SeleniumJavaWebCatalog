@@ -1,1 +1,0 @@
-📸 Post-condition: Log out if logged in
