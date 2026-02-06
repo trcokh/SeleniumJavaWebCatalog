@@ -1,1 +1,0 @@
-⚠️ Polling for OTP: No email received within timeout (1s)
