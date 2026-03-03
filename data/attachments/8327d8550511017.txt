@@ -1,0 +1,7 @@
+⚠️ Unable to arrange browser window: java.util.concurrent.TimeoutException
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-1044-azure', java.version: '21.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [dde2ec40e96fd151391999dbdd8ad3c2, setCurrentWindowSize {height=800, width=450}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 145.0.3800.70, fedcm:accounts: true, goog:processID: 2198, ms:edgeOptions: {debuggerAddress: localhost:45679}, msedge: {msedgedriverVersion: 145.0.3800.82 (de59ede99663..., userDataDir: /tmp/com.microsoft.Edge.sco...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:45679/devtoo..., se:cdpVersion: 145.0.3800.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dde2ec40e96fd151391999dbdd8ad3c2
