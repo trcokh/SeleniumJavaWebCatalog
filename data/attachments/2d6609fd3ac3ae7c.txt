@@ -1,1 +1,0 @@
-ℹ️ Hard Assert False: There is no app submitted
