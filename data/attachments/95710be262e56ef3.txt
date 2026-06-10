@@ -1,0 +1,1 @@
+📸 Post-condition: Go to home if Signup page is displayed
